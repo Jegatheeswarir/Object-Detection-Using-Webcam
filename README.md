@@ -29,7 +29,7 @@ STEP-10: Release the video capture and close any OpenCV windows (cap.release() a
 ## PROGRAM:
 **NAME**: Jegatheeswari R 
 **REG.NO**: 212223230092
-
+```
 import cv2
 import numpy as np
 
@@ -106,6 +106,7 @@ while True:
 # Release video capture and close windows
 cap.release()
 cv2.destroyAllWindows()
+```
 ## OUTPUT:
 <img width="746" height="605" alt="image" src="https://github.com/user-attachments/assets/6099a3e0-0e4c-4e50-826d-c8b6e35fdde4" />
 
