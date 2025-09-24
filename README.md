@@ -111,6 +111,6 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 <img width="746" height="605" alt="image" src="https://github.com/user-attachments/assets/6099a3e0-0e4c-4e50-826d-c8b6e35fdde4" />
 
-RESULT:
+## RESULT:
 Thus, the Python program for real-time object detection using a webcam has been successfully executed.
 
